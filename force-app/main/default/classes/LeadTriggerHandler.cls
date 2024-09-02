@@ -6,7 +6,7 @@ public class LeadTriggerHandler {
         matchLeadsToExistingAccounts(newLeads);
     }
 
-    public static void matchLeadsToExistingAccounts(List<Lead> newLeads){
+    private static void matchLeadsToExistingAccounts(List<Lead> newLeads){
         // 1. Fuzzy/Exact match on lead company name and account name
         newLeads = matchFuzzyCompanyName(newLeads);
         // 2. Exact match on lead email domain and account domain
