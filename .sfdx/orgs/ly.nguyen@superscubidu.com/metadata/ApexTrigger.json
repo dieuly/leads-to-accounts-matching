@@ -1,0 +1,31 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "005d2000001UeU5AAK",
+      "createdByName": "Ly Nguyen",
+      "createdDate": "2024-08-29T11:44:29.000Z",
+      "fileName": "triggers/LeadTrigger.trigger",
+      "fullName": "LeadTrigger",
+      "id": "01qd200000094nZAAQ",
+      "lastModifiedById": "005d2000001UeU5AAK",
+      "lastModifiedByName": "Ly Nguyen",
+      "lastModifiedDate": "2024-09-02T11:46:20.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "005d2000001UeU5AAK",
+      "createdByName": "Ly Nguyen",
+      "createdDate": "2024-09-02T07:27:18.000Z",
+      "fileName": "triggers/AccountTrigger.trigger",
+      "fullName": "AccountTrigger",
+      "id": "01qd20000009EtNAAU",
+      "lastModifiedById": "005d2000001UeU5AAK",
+      "lastModifiedByName": "Ly Nguyen",
+      "lastModifiedDate": "2024-09-02T11:29:47.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "005d2000001UeU5AAK",
+      "createdByName": "Ly Nguyen",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "unfiled$public",
+      "fullName": "unfiled$public",
+      "id": "",
+      "lastModifiedById": "005d2000001UeU5AAK",
+      "lastModifiedByName": "Ly Nguyen",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "manageableState": "unmanaged",
+      "namespacePrefix": "",
+      "type": "ReportFolder"
+    },
+    {
+      "createdById": "005d2000001UeViAAK",
+      "createdByName": "Automated Process",
+      "createdDate": "2024-08-27T19:52:47.000Z",
+      "fileName": "reports/EnablementDashboardReports_sfdcSESv60",
+      "fullName": "EnablementDashboardReports_sfdcSESv60",
+      "id": "00ld2000001CUprAAG",
+      "lastModifiedById": "005d2000001UeViAAK",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2024-08-27T19:52:47.000Z",
+      "manageableState": "unmanaged",
+      "type": "ReportFolder"
+    },
+    {
+      "createdById": "005d2000001UeViAAK",
+      "createdByName": "Automated Process",
+      "createdDate": "2024-08-27T19:52:47.000Z",
+      "fileName": "reports/EBotR_v5",
+      "fullName": "EBotR_v5",
+      "id": "00ld2000001CUpqAAG",
+      "lastModifiedById": "005d2000001UeViAAK",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2024-08-27T19:52:47.000Z",
+      "manageableState": "unmanaged",
+      "type": "ReportFolder"
+    },
+    {
+      "createdById": "005d2000001UeViAAK",
+      "createdByName": "Automated Process",
+      "createdDate": "2024-08-27T19:52:47.000Z",
+      "fileName": "reports/EnablementDashboardReports_sfdcSESv61",
+      "fullName": "EnablementDashboardReports_sfdcSESv61",
+      "id": "00ld2000001CUptAAG",
+      "lastModifiedById": "005d2000001UeViAAK",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2024-08-27T19:52:47.000Z",
+      "manageableState": "unmanaged",
+      "type": "ReportFolder"
+    },
+    {
+      "createdById": "005d2000001UeViAAK",
+      "createdByName": "Automated Process",
+      "createdDate": "2024-08-27T19:52:47.000Z",
+      "fileName": "reports/EinsteinBotReports_v2",
+      "fullName": "EinsteinBotReports_v2",
+      "id": "00ld2000001CUppAAG",
+      "lastModifiedById": "005d2000001UeViAAK",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2024-08-27T19:52:47.000Z",
+      "manageableState": "unmanaged",
+      "type": "ReportFolder"
+    },
+    {
+      "createdById": "005d2000001UeViAAK",
+      "createdByName": "Automated Process",
+      "createdDate": "2024-08-27T19:52:47.000Z",
+      "fileName": "reports/EBotR_v3",
+      "fullName": "EBotR_v3",
+      "id": "00ld2000001CUpmAAG",
+      "lastModifiedById": "005d2000001UeViAAK",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2024-08-27T19:52:47.000Z",
+      "manageableState": "unmanaged",
+      "type": "ReportFolder"
+    },
+    {
+      "createdById": "005d2000001UeViAAK",
+      "createdByName": "Automated Process",
+      "createdDate": "2024-08-27T19:52:47.000Z",
+      "fileName": "reports/EBotR_v4",
+      "fullName": "EBotR_v4",
+      "id": "00ld2000001CUpnAAG",
+      "lastModifiedById": "005d2000001UeViAAK",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2024-08-27T19:52:47.000Z",
+      "manageableState": "unmanaged",
+      "type": "ReportFolder"
+    },
+    {
+      "createdById": "005d2000001UeViAAK",
+      "createdByName": "Automated Process",
+      "createdDate": "2024-08-27T19:52:47.000Z",
+      "fileName": "reports/EinsteinBotReports",
+      "fullName": "EinsteinBotReports",
+      "id": "00ld2000001CUpoAAG",
+      "lastModifiedById": "005d2000001UeViAAK",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2024-08-27T19:52:47.000Z",
+      "manageableState": "unmanaged",
+      "type": "ReportFolder"
+    }
+  ]
+}
