@@ -26,7 +26,7 @@ public class TestDataFactory {
             Name = name,
             Website = website
         );
-	}
+    }
 
     public static Lead createLead(String company, String email) {
         return new Lead(
@@ -47,6 +47,5 @@ public class TestDataFactory {
             ));
         }
         return leads;
-	}
-
+    }    
 }

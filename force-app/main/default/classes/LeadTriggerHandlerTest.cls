@@ -32,6 +32,7 @@ private class LeadTriggerHandlerTest {
         insert accounts;
     }
 
+    // Match exact company name test
     @isTest
     static void testLeadMatchCompanyName() {
         List<Lead> newLeads = new List<Lead>();
@@ -72,6 +73,7 @@ private class LeadTriggerHandlerTest {
         );
     }
 
+    // Match exact email domain and account domain test
     @isTest
     static void testLeadMatchEmailDomain() {
         List<Lead> newLeads = new List<Lead>();
@@ -106,6 +108,7 @@ private class LeadTriggerHandlerTest {
         );
     }
 
+    // Match fuzzy company name test
     @isTest
     static void testLeadFuzzyMatchCompanyName() {
         List<Lead> newLeads = new List<Lead>();
@@ -162,6 +165,7 @@ private class LeadTriggerHandlerTest {
         );
     }
 
+    // Match exact company name bulk test
     @isTest
     static void testBulkLeads() {
         List<Lead> newLeads = TestDataFactory.createLeads(200, TestDataFactory.AIVEN, 'Simple Company');
@@ -178,6 +182,7 @@ private class LeadTriggerHandlerTest {
         );
     }
 
+    // Incomplete lead data test (missing Company)
     @isTest
     static void testIncompleteLeadData() {
         List<Lead> leads = new List<Lead>();
@@ -201,6 +206,7 @@ private class LeadTriggerHandlerTest {
         Test.stopTest();
     }
 
+    // Incorect lead data test (invalid Email format)
     @isTest
     static void testIncorrectLeadData() {
         List<Lead> leads = new List<Lead>();
