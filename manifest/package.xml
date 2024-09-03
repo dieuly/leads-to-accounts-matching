@@ -29,5 +29,9 @@
         <members>Account.Account_Name_Fuzzy_Duplicate_Rule</members>
         <name>DuplicateRule</name>
     </types>
+     <types>
+        <members>LeadsToAccountsTrackingReportFolder/Leads_To_Accounts_Matching_Report</members>
+        <name>Report</name>
+    </types>
     <version>61.0</version>
 </Package>
